@@ -231,6 +231,15 @@ Code Quality: Modular, readable, and maintainable code
 ✔ Phase 3 – Completed with responsive UI
 ✔ Ready for review and evaluation
 
+Note:
+The backend for this project is currently configured to run locally (http://localhost:8000).
+
+As a result, the live deployed frontend may show failed API requests or empty data, since it cannot access the local backend environment.
+
+All backend functionalities (scraping, APIs, content update pipeline, and database operations) work correctly when the backend is run locally as per the setup instructions.
+
+This setup was intentional to focus on backend logic, data processing, and system design rather than cloud database persistence.
+
 🙌 Final Notes
 
 This project focuses on clarity, robustness, and real-world engineering practices rather than over-engineering.
