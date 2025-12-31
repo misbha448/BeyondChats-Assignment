@@ -209,7 +209,7 @@ Clean and professional layout
 🌐 Live Demo
 
 👉 Frontend Live Link:
-https://your-live-netlify-or-vercel-link-here
+https://beyondchats-ui.netlify.app/
 
 
 📌 Evaluation Criteria Mapping
